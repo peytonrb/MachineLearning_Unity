@@ -7,11 +7,6 @@ Penguins tutorial originally published by Unity but updated by [Immersive Limit 
 |:-------:|:------:|:-------------:|:-------:|:------------:|
 | **Release 1** | **April 30, 2020** | **[source](https://github.com/Unity-Technologies/ml-agents/tree/release_1)** | **[docs](https://github.com/Unity-Technologies/ml-agents/tree/release_1/docs/Readme.md)** | **[download](https://github.com/Unity-Technologies/ml-agents/archive/release_1.zip)** |
 
-# Addition
-The `./Assets/ml-agents-realease1/` folder include the modified ml-agents config files for the training. The full train command is :
-
-    mlagents-learn ./config/trainer_config.yaml --curriculum .\config\curricula\penguin.yaml --run-id penguin_01
-
 # Licence & Credits
 * `ML-Agents: Penguins` tutorials is a work of :
 [Immersive Limit LLC](www.immersivelimit.com), see 
