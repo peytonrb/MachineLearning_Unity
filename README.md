@@ -3,7 +3,7 @@
 In an effort to experiment with Machine Learning and help my understanding of the MLAgents implementation in Unity for use in future games, I completed the ML-Agents:
 Penguins tutorial originally published by Unity but updated by [Immersive Limit LLC](www.immersivelimit.com).
 
-In this repo is the existing code files that programmed the Deep Learning penguins. 
+In this repo is the existing code files that programmed the Deep Learning penguins along with their sprites and materials.  
 
 | **Version** | **Release Date** | **Source** | **Documentation** | **Download** |
 |:-------:|:------:|:-------------:|:-------:|:------------:|
